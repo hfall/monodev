@@ -8,6 +8,20 @@
     "coverage": "jest --coverage",
     "unit": "jest"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hfall/monodev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hfall/monodev.git/issues"
+  },
+  "homepage": "https://github.com/hfall/monodev.git#readme",
   "devDependencies": {
     "@babel/cli": "^7.6.4",
     "@babel/core": "^7.6.4",
